@@ -1,0 +1,89 @@
+assessmentId,internalTaxonId,scopes,genusName,speciesName,binomial,redlistCategory,redlistCriteria,EOOmethod,AOOmethod,yearPublished,assessmentDate,criteriaVersion,language,systems,realm
+2700381,201335,Global,Aloe,adigratana,Aloe adigratana,Endangered,B1ab(iii)+2ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703002,201371,Global,Aloe,albovestita,Aloe albovestita,Endangered,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702486,201364,Global,Aloe,ambigens,Aloe ambigens,Endangered,B1ab(iii)+2ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703683,201380,Global,Aloe,ankoberensis,Aloe ankoberensis,Endangered,"B1ab(iii,v)+2ab(iii,v)",MCP from points adjusted with expert knowledge,Points and expert knowledge,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701606,201352,Global,Aloe,bargalensis,Aloe bargalensis,Near Threatened,,MCP from points adjusted with expert knowledge,NA,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704666,201393,Global,Aloe,bella,Aloe bella,Endangered,B1ab(iii),Expert knowledge,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699647,201325,Global,Aloe,benishangulana,Aloe benishangulana,Data Deficient,,NA,NA,2013,2011-08-16 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704098,201385,Global,Aloe,bertemariae,Aloe bertemariae,Data Deficient,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699581,201324,Global,Aloe,breviscapa,Aloe breviscapa,Least Concern,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699785,201327,Global,Aloe,brunneostriata,Aloe brunneostriata,Critically Endangered,B1ab(iii)+2ab(iii),MCP from points adjusted to match AOO,Points,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700241,201333,Global,Aloe,calidophila,Aloe calidophila,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700753,201340,Global,Aloe,camperi,Aloe camperi,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702549,201365,Global,Aloe,canarina,Aloe canarina,Data Deficient,,NA,NA,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702919,201370,Global,Aloe,citrina,Aloe citrina,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702095,201359,Global,Aloe,clarkei,Aloe clarkei,Least Concern,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703298,201375,Global,Aloe,crassipes,Aloe crassipes,Data Deficient,,NA,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704170,201386,Global,Aloe,cremnophila,Aloe cremnophila,Endangered,D,MCP from points adjusted with expert knowledge,Points and expert knowledge,2013,2010-04-06 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704739,201394,Global,Aloe,debrana,Aloe debrana,Least Concern,,MCP from points,NA,2013,2010-10-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703877,201382,Global,Aloe,diolii,Aloe diolii,Least Concern,,NA,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704475,201390,Global,Aloe,djiboutiensis,Aloe djiboutiensis,Least Concern,,NA,Points,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701815,201355,Global,Aloe,elegans,Aloe elegans,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699513,201323,Global,Aloe,elegantissima,Aloe elegantissima,Least Concern,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+97172094,201347,Global,Aloe,elkerriana,Aloe elkerriana,Least Concern,,NA,Points,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703805,201381,Global,Aloe,ellenbeckii,Aloe ellenbeckii,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2795911,30747,Global,Aloe,eminens,Aloe eminens,Endangered,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703229,201374,Global,Aloe,erensii,Aloe erensii,Endangered,B1ab(iii),MCP from points,NA,2013,2010-03-11 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701034,201344,Global,Aloe,ericahenriettae,Aloe ericahenriettae,Least Concern,,NA,Points,2013,2010-10-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701177,201346,Global,Aloe,eumassawana,Aloe eumassawana,Least Concern,,MCP from points adjusted with expert knowledge,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705220,201401,Global,Aloe,friisii,Aloe friisii,Endangered,"B2ab(ii,iii)",NA,Points,2013,2010-10-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700898,201342,Global,Aloe,ghibensis,Aloe ghibensis,Critically Endangered,B1ab(iii),MCP from points adjusted to match AOO,Points,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704942,201397,Global,Aloe,gilbertii,Aloe gilbertii,Least Concern,,MCP from points adjusted with expert knowledge,NA,2013,2010-07-14 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704603,201392,Global,Aloe,gillettii,Aloe gillettii,Endangered,B1ab(iii),MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699386,201321,Global,Aloe,glabrescens,Aloe glabrescens,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704254,201387,Global,Aloe,gracilicaulis,Aloe gracilicaulis,Endangered,"B1ab(iii,v)",MCP from points adjusted with expert knowledge,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700460,201336,Global,Aloe,grisea,Aloe grisea,Endangered,B1ab(iii),MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705365,201403,Global,Aloe,harlana,Aloe harlana,Endangered,B1ab(iii),MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704412,201389,Global,Aloe,heliderana,Aloe heliderana,Near Threatened,B1ab(iii),MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701322,201348,Global,Aloe,hemmingii,Aloe hemmingii,Near Threatened,,MCP from points adjusted with expert knowledge,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+97173093,201350,Global,Aloe,heybensis,Aloe heybensis,Least Concern,,MCP from points adjusted with expert knowledge,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700176,201332,Global,Aloe,hildebrandtii,Aloe hildebrandtii,Endangered,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702704,201367,Global,Aloe,jacksonii,Aloe jacksonii,Data Deficient,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702781,201368,Global,Aloe,jucunda,Aloe jucunda,Critically Endangered,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704873,201396,Global,Aloe,kahinii,Aloe kahinii,Least Concern,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+44476186,44392487,Global,Aloe,kefaensis,Aloe kefaensis,Endangered,B1ab(iii)+2ab(iii),MCP from points adjusted with expert knowledge,Points and expert knowledge,2013,2008-08-19 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701387,201349,Global,Aloe,labworana,Aloe labworana,Least Concern,,MCP from points,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700528,201337,Global,Aloe,lateritia,Aloe lateritia,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701883,201356,Global,Aloe,lindenii,Aloe lindenii,Vulnerable,B1ab(iii),MCP from points,NA,2013,2010-10-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+97173324,201326,Global,Aloe,macleayi,Aloe macleayi,Least Concern,,MCP from points adjusted with expert knowledge,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702392,201363,Global,Aloe,macrocarpa,Aloe macrocarpa,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703615,201379,Global,Aloe,mcloughlinii,Aloe mcloughlinii,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702852,201369,Global,Aloe,medishiana,Aloe medishiana,Near Threatened,,MCP from points adjusted with expert knowledge,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702306,201362,Global,Aloe,megalacantha,Aloe megalacantha,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+5193385,158288,Global,Aloe,microdonta,Aloe microdonta,Least Concern,,MCP from points,NA,2009,2006-11-04 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702228,201361,Global,Aloe,miskatana,Aloe miskatana,Least Concern,,NA,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701102,201345,Global,Aloe,molederana,Aloe molederana,Critically Endangered,B1ab(iii),MCP from points,Points,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699450,201322,Global,Aloe,monticola,Aloe monticola,Endangered,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2010-07-14 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704804,201395,Global,Aloe,orlandi,Aloe orlandi,Data Deficient,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700619,201338,Global,Aloe,otallensis,Aloe otallensis,Least Concern,,MCP from points,Points,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699860,201328,Global,Aloe,parvidens,Aloe parvidens,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705441,201404,Global,Aloe,peckii,Aloe peckii,Endangered,B1ab(iii),MCP from points,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701946,201357,Global,Aloe,percrassa,Aloe percrassa,Near Threatened,,MCP from points,Points,2013,2010-07-14 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704543,201391,Global,Aloe,pirottae,Aloe pirottae,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700027,201330,Global,Aloe,pubescens,Aloe pubescens,Near Threatened,,MCP from points adjusted with expert knowledge,Points and expert knowledge,2013,2010-07-14 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705292,201402,Global,Aloe,pulcherrima,Aloe pulcherrima,Vulnerable,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+5192171,158271,Global,Aloe,rabaiensis,Aloe rabaiensis,Least Concern,,MCP from points adjusted with expert knowledge,NA,2009,2006-11-04 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705004,201398,Global,Aloe,retrospiciens,Aloe retrospiciens,Vulnerable,B1ab(iii),MCP from points,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701676,201353,Global,Aloe,rigens,Aloe rigens,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703367,201376,Global,Aloe,rivae,Aloe rivae,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703433,201377,Global,Aloe,rubrodonta,Aloe rubrodonta,Data Deficient,,NA,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703158,201373,Global,Aloe,rugosifolia,Aloe rugosifolia,Vulnerable,"B2ab(i,iii)",MCP from points,Points,2013,2010-07-14 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2699950,201329,Global,Aloe,ruspoliana,Aloe ruspoliana,Least Concern,,MCP from points,NA,2013,2010-03-20 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700961,201343,Global,Aloe,schelpei,Aloe schelpei,Endangered,B1ab(iii),MCP from points,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700311,201334,Global,Aloe,schoelleri,Aloe schoelleri,Near Threatened,,NA,NA,2013,2010-03-30 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703490,201378,Global,Aloe,schweinfurthii,Aloe schweinfurthii,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704023,201384,Global,Aloe,scobinifolia,Aloe scobinifolia,Endangered,B1ab(iii),MCP from points,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705516,201405,Global,Aloe,secundiflora,Aloe secundiflora,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701738,201354,Global,Aloe,sinana,Aloe sinana,Endangered,B1ab(iii),MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2703082,201372,Global,Aloe,sinkatana,Aloe sinkatana,Endangered,B1ab(iii),MCP from points,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2704329,201388,Global,Aloe,somaliensis,Aloe somaliensis,Vulnerable,B1ab(iii),MCP from points,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700688,201339,Global,Aloe,steudneri,Aloe steudneri,Near Threatened,,MCP from points,NA,2013,2010-03-30 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702162,201360,Global,Aloe,tewoldei,Aloe tewoldei,Near Threatened,,MCP from points adjusted with expert knowledge,NA,2013,2010-07-13 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2701528,201351,Global,Aloe,trichosantha,Aloe trichosantha,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705148,201400,Global,Aloe,trigonantha,Aloe trigonantha,Least Concern,,MCP from points adjusted with expert knowledge,NA,2013,2010-04-01 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2705072,201399,Global,Aloe,tweedieae,Aloe tweedieae,Least Concern,,MCP from points,NA,2013,2011-08-18 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702618,201366,Global,Aloe,welmelensis,Aloe welmelensis,Data Deficient,,NA,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2702016,201358,Global,Aloe,weloensis,Aloe weloensis,Data Deficient,,NA,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700821,201341,Global,Aloe,wrefordii,Aloe wrefordii,Least Concern,,MCP from points,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
+2700097,201331,Global,Aloe,yavellana,Aloe yavellana,Endangered,B1ab(iii),MCP from points adjusted with expert knowledge,NA,2013,2010-03-31 00:00:00 UTC,3.1,English,Terrestrial,Afrotropical
